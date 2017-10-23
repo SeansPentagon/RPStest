@@ -120,3 +120,5 @@ let z = prompt("How many rounds do you wish to play?");
 let playerCount = parseInt(z);
 let rps = new sprGame(playerCount);
 rps.gamePlay();
+
+console.log("Yes")
